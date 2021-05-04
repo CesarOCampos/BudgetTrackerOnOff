@@ -9,6 +9,7 @@ const FILES_TO_CACHE = [
   "/index.js",
   "/styles.css",
   "/manifest.webmanifest",
+  "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
 ];
 
 const CACHE_NAME = "static-budgetcache-v2";
