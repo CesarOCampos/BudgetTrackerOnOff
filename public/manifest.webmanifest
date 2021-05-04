@@ -1,6 +1,7 @@
 {
-    "name": "BudgetTrackerONOFF",
+    "name": "Budget_Tracker",
     "short_name": "Budget_Tracker",
+    "description": "This budget tracker allows you to track debits and credits to your account",
     "start_url": "/",
     "background_color": "#cadbda",
     "theme_color": "#cadbda",
