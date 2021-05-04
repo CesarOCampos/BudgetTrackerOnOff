@@ -1,4 +1,4 @@
-console.log("Hello, this is your service worker! :)");
+console.log("Hello from your service worker!");
 
 const FILES_TO_CACHE = [
   "/",
