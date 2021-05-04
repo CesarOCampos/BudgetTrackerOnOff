@@ -45,18 +45,18 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Installation Instructions
 
-    * npm i
+    npm i
 
 ## Test Instructions
 
-    * npm test
+    npm test
 
 ## Usage Information
-    * N/A
+    N/A
 
-## Contributor Guidlines
+## Contributor Guidelines
 
-    * Contributions are always welcome! (Please fork and pull request only.)
+    Contributions are always welcome! (Please fork and pull request only.)
 
 ## Mock-Up
 
